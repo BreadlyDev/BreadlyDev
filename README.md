@@ -11,9 +11,9 @@
 <h3 align="left">
   👩‍💻 About me:
 </h3>
-<div align="left">
-  I am young and passionate Software developer with a huge wish to get more useful and unique experience. My journey into the world of IT started not so long ago, when I entered my university. But I have already known a lot of new things. Actively took part in hackathons and even got prize places. I plan to improve my skills further and learn more useful things about IT.
-</div>
+<p align="left">
+I am young and passionate Software developer with a huge wish to get more useful and unique experience. My journey into the world of IT started not so long ago, when I entered my university. But I have already known a lot of new things. Actively took part in hackathons and even got prize places. I plan to improve my skills further and learn more useful things about IT.
+</p>
 
 ###
 
